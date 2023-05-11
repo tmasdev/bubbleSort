@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #1c1c1e;
+}
+.element{
+  position: absolute;
+  height: 10 vh;
+  background-color: #3a3a3c;
+  color: white;
+  
+}
+#sortButton{
+  height:80px; 
+  width: 150px; 
+  position:absolute; 
+  bottom: 10px;
+  display: flex; 
+  justify-content: center;
+  color: white;
+}
+#arrayContainer {
+  position: absolute;
+}
