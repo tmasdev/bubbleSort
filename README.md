@@ -1,1 +1,3 @@
-Bubble sort visualiser
+https://tmas.dev/bubbleSort
+
+Primative bubble sort visualiser
